@@ -15,7 +15,7 @@
     ```
 2) You can Add lot of Replecment Payloads AutoRepeater ;)
 
-## Logger++ Filter For AutoRepeater Response Canary Reflection
+## Logger++ Filter For AutoRepeater Response Charlie Reflection
 
     Response.Body CONTAINS "<Charlie>"
     
