@@ -9,7 +9,7 @@
     ```
     Type: Request Param Value
     Match: .*
-    Replace: <CANARY>
+    Replace: /1'"(){}<Charlie>:;/
     Witch: Replace All
     Regex Match: Enabled
     ```
@@ -17,7 +17,7 @@
 
 ## Logger++ Filter For AutoRepeater Response Canary Reflection
 
-    Response.Body CONTAINS "<CANARY>"
+    Response.Body CONTAINS "<Charlie>"
     
 
 <h4><em>Happy Hunting ;) </em><h4>
