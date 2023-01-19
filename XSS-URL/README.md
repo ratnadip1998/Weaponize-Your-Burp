@@ -1,4 +1,4 @@
-## Cross Site Scripting Automation in Burp Suite 
+## URL-Based Cross Site Scripting Automation in Burp Suite 
 #### <em>Extentions: AutoRepeater and Logger++</em>
 
 
